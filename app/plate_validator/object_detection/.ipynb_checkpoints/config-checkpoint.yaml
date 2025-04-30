@@ -1,0 +1,7 @@
+path: F:\University Project\plate_validator\object_detection\dataset
+train: train/images
+val: val/images
+
+
+names:
+    0: plate
